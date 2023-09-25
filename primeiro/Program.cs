@@ -7,6 +7,7 @@ namespace primeiro
         static void Main(string[] args)
         {
             Console.WriteLine("Hello JUDEU!");
+            Console.WriteLine("Adeus Judeu");
         }
     }
 }
